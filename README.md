@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Aditya Verma
 
-<!--
-**Aditya-Logic/Aditya-Logic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Machine Learning & Neural Networks Enthusiast  
+💻 Python | Flask | Data Science  
+🔬 Exploring AI research & real-world ML deployment  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Focus
+- Neural Network Projects
+- ML Model Deployment with Flask
+- Research-based AI Projects
+
+
+---
+
+##  Tech Stack
+- Python
+- Flask
+- SQL
+- Git & GitHub
+- HTML/CSS/JS
+- Data Science
+- Machine Learning
+- Neural Network
+  
+
+---
+
+##  Featured Projects
+- 🔹 Neural Network Prediction System
+- 🔹 ML Web App with Flask
+- 🔹 Log Analysis System
+- 🔹 Data Science Experiments
+
+---
+
+##  Connect With Me
+- GitHub: https://github.com/Aditya-Logic
+
+---
+
+⭐ Always building. Always learning.
