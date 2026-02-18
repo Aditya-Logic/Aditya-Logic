@@ -9,25 +9,14 @@
 </p>
 
 ---
-
-# Hi 👋 I'm Aditya Verma
+#👋 About Me
 
 🚀 Machine Learning & Neural Networks Enthusiast  
 💻 Python | Flask | Data Science  
 🔬 Exploring AI research & real-world ML deployment  
 
 ---
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aditya%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
 
-<!-- Animated Typing Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aditya+Verma;AI+Engineer+%7C+ML+Developer;Deploying+AI+to+Production;Welcome+to+my+GitHub" />
-</p>
-
----
 ## 🧠 Current Focus
 - Neural Network Projects
 - ML Model Deployment with Flask
