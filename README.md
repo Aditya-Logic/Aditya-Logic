@@ -9,7 +9,7 @@
 </p>
 
 ---
-#👋 About Me
+##👋 About Me
 
 🚀 Machine Learning & Neural Networks Enthusiast  
 💻 Python | Flask | Data Science  
