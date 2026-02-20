@@ -48,6 +48,7 @@
 
 ##  Connect With Me
 - GitHub: https://github.com/Aditya-Logic
+- Linkdin:https://www.linkedin.com/in/aditya-verma-b78a91324?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ---
 
